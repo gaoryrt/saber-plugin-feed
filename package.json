@@ -11,7 +11,8 @@
     "lib"
   ],
   "dependencies": {
-    "feed": "^4.2.1"
+    "feed": "^4.2.1",
+    "rss": "^1.2.2"
   },
   "peerDependencies": {
     "saber": ">=0.7.0"
